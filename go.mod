@@ -1,3 +1,3 @@
-module github.com/Lonor/dingtalkbot_sdk
+module github.com/Lonor/dingtalkbot-sdk
 
 go 1.16
